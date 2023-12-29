@@ -93,13 +93,6 @@ if __name__ == '__main__':
 ![robo](./img/robomaster.png)
 <img width="332" alt="image" src="https://github.com/Vigneshv-23/mobilerobot-openloopcontrol/assets/110780412/e8717e92-6e97-4d3c-aa7a-5e466eecd235">
 
-Insert image here
-
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
